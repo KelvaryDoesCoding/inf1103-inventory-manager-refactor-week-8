@@ -1,0 +1,38 @@
+[
+    {
+        "id": "P001",
+        "name": "Laptop",
+        "price": 1200.0,
+        "stock": 15
+    },
+    {
+        "id": "P002",
+        "name": "Mouse",
+        "price": 25.5,
+        "stock": 40
+    },
+    {
+        "id": "P003",
+        "name": "Shampoo",
+        "price": 5.75,
+        "stock": 32
+    },
+    {
+        "id": "P004",
+        "name": "Battery",
+        "price": 3.45,
+        "stock": 12
+    },
+    {
+        "id": "P005",
+        "name": "Flashlight",
+        "price": 15.0,
+        "stock": 45
+    },
+    {
+        "id": "P006",
+        "name": "MSP430",
+        "price": 100.67,
+        "stock": 45
+    }
+]
